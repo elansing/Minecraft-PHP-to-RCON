@@ -39,4 +39,5 @@ DE:
 Support:
 
 EN: If you have any questions or problems, please send an email to Development.Github@elansing.de.
+
 DE: Bei Fragen oder Problemen kannst du dich gerne per eMail an Development.Github@elansing.de melden.
